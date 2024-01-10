@@ -39,5 +39,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Support and Contribution
 
-For bug reports, feature requests, or contributions, please open an issue or create a pull request on [GitHub](https://github.com/yourusername/your-repo).
+For bug reports, feature requests, or contributions, please open an issue or create a pull request on [GitHub](https://github.com/noahsamoa/wp-login-vqp).
 
